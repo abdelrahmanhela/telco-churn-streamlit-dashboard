@@ -5,7 +5,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-Upload `WA_Fn-UseC_-Telco-Customer-Churn.csv` on the Overview page, or drop it in `data/`
+Upload The dataset on the Overview page, or drop it in `data/`
 under that exact name and it loads automatically.
 
 ```
